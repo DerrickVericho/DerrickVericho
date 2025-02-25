@@ -27,4 +27,9 @@ Prize Dataset for Movie Recommendation Systems"
 - Data analysis and create an interactive sales dashboard with Looker Studio
 
 ## Connect with me
-[Linkedin](www.linkedin.com/in/derrick-vericho-268563225) [Instagram](https://www.instagram.com/derrick_verr/)
+<a href="https://www.linkedin.com/in/derrick-vericho-268563225">  
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32">  
+</a>
+<a href="https://www.instagram.com/derrick_verr/">  
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32">  
+</a>
