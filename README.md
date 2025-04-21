@@ -20,16 +20,15 @@ Prize Dataset for Movie Recommendation Systems"
 1. ### [IBM Data Science by Coursera](https://coursera.org/share/7bf271a289efe9a3745eb34f69f32624)
 - Learned the basics of Data Science and Machine Learning.  
 - Got hands-on with Python, SQL, and data science tools.  
-- Did data visualization and analysis to find insights.  
+- Data visualization and analysis to find insights.  
 - Built Machine Learning models and completed cloud-based labs.  
-2. ### Project-Based Virtual Intern : Big Data Analysis
-- Understanding large data and business needs
-- Data analysis and create an interactive sales dashboard with Looker Studio
+
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/derrick-vericho-268563225">  
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32">  
+<a href="https://www.linkedin.com/in/derrick-vericho-268563225">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" />
 </a>
-<a href="https://www.instagram.com/derrick_verr/">  
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32">  
+<a href="https://www.instagram.com/yourusername">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" />
 </a>
+
