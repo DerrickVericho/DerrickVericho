@@ -1,11 +1,20 @@
-## Unraveling data mysteries by day, riding AI waves and market vibes by night. 
+## 📈 Finance & AI Explorer | Bridging numbers, markets, and AI.
 
-I’m Derrick, a Data Science undergrad who turns chaos into predictions. Mad about Machine Learning, Deep Learning wizardry, Financial Market rollercoasters, and the wild world of Web3/Crypto. 
+Hi there! 👋 I'm Derrick, a data enthusiast passionate about uncovering insights through Python and its powerful data science libraries.  
+I enjoy analyzing complex datasets, especially in the realm of financial markets.  
+Currently, I'm sharpening my skills in developing application using different technologies and focusing in AI while exploring trends in global finance.  
+
 
 ## About me:
 - 🤖 Currently pushing Artificial Inteligence knowledge
 - 🤝 Looking to collaborate as Financial Market Analyst
 - 📨 Reach me: derrickvericho@gmail.com
+
+## Core Skill & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,mysql,git" alt="Skills" />
+</p>
+
 
 ## Education:
 1. ### [Binus University](https://binus.ac.id/) | Undergraduate Data Science | 2023-2027 (Expected)
