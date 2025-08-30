@@ -13,14 +13,19 @@ I build intelligent systems using Python, TensorFlow, and modern APIs — with a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+
 
 ## Supporting Skill & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -31,12 +36,13 @@ I build intelligent systems using Python, TensorFlow, and modern APIs — with a
 ## Education:
 ### 🎓 [Binus University](https://binus.ac.id/) **Undergraduate – Data Science (2023–2027)**
 
-- Relevant Courses: Artificial Intelligence, Machine Learning, Deep Learning, Bayesian Data Analysis, Data Management, Big Data, Data Mining & Visualization
-- Projects:
+- Relevant Courses: Artificial Intelligence, Machine Learning, Deep Learning, Bayesian Data Analysis, Big Data Infrastructure, Algorithm Programming & Design
+- Relevant Projects:
   - Implemented Neural Collaborative Filtering for Netflix Movie Recommendation
   - Designed U.S. Stock Portfolio Strategy using Quantitative Analysis
-- Active Member, Data Science Club – Research Division
-  
+- Active Member, Data Science Club – Research Division:
+  - Research paper published: [Vision Transformer and CNNs in Kidney Stone Classification: A Comparative Study](https://www.researchgate.net/publication/394190477_Vision_Transformer_and_CNNs_in_Kidney_Stone_Classification_A_Comparative_Study)
+
 ## Certification
 1. ### [IBM Data Science](https://coursera.org/share/7bf271a289efe9a3745eb34f69f32624) [![IBM Data Science](https://img.shields.io/badge/IBM-DataScience-blue?logo=ibm&style=flat-square)](https://coursera.org/share/7bf271a289efe9a3745eb34f69f32624)
 
